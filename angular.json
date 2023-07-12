@@ -118,5 +118,8 @@
       }
     }
   },
-  "defaultProject": "angular-trim"
+  "defaultProject": "angular-trim",
+  "cli": {
+    "analytics": false
+  }
 }
